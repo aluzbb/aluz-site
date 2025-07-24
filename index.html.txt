@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ALUZ Beach Bar</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #f8f8f8;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      flex-direction: column;
+      font-family: Arial, sans-serif;
+    }
+    img {
+      max-width: 90%;
+      height: auto;
+    }
+    p {
+      font-size: 1.2rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <img src="logo.png" alt="ALUZ Beach Bar Logo">
+  <p>Η σελίδα είναι υπό κατασκευή</p>
+</body>
+</html>
